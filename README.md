@@ -13,6 +13,13 @@
   <img src=https://img.shields.io/badge/@__ocristian-black?&style=for-the-badge&logo=x&logoColor=white alt=X style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://x.com/_ocristian" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/@__ocristian-black?&style=for-the-badge&logo=x&logoColor=white" 
+       alt="X" 
+       style="margin-bottom: 5px;" />
+</a>
+
+
 <a href="https://linkedin.com/in/ocristian" target="_blank">
   <img src=https://img.shields.io/badge/ocristian-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
