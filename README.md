@@ -2,7 +2,7 @@
 
 👨‍💻 Software Engineer at [@freenowtech](https://github.com/freenowtech/)  
 🇧🇷 From Rio Grande do Sul 🧉, Brazil  
-🇩🇪 Living in Hamburg, Germany. 
+🇩🇪 Living in Hamburg, Germany
 
 ### Find me elsewhere 🌎  
 <a href="https://ocristian.github.io" target="_blank">
