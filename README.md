@@ -13,7 +13,7 @@
   <img src=https://img.shields.io/badge/@__ocristian-black?&style=for-the-badge&logo=x&logoColor=white alt=X style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/_ocristian" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/_ocristian" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://img.shields.io/badge/@__ocristian-black?&style=for-the-badge&logo=x&logoColor=white" 
        alt="X" 
        style="margin-bottom: 5px;" />
